@@ -2,7 +2,7 @@
 
 ## 👤 Installation 👤
 ```
-【✔】git clone https://github.com/Err0r-ICA/JAR
+【✔】git clone https://github.com/kinngkolos290/JAR.git
 【✔】cd JAR
 【✔】sh JAR
 ```
